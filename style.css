@@ -65,6 +65,7 @@ section img{
 }
 .attribution{
     font-family: 'Outfit';
+    font-size: 11px;
     position: absolute;
     bottom: 10px;
     justify-content: center;
